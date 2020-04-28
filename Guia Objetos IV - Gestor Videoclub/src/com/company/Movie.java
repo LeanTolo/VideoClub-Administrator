@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.Objects;
+
 public class Movie {
 
     private String genre;
@@ -82,5 +84,8 @@ public class Movie {
 
     }
 
-
+    @Override
+    public int hashCode() {
+        return Objects.hash(genre, title, date, duration, classification, originCountry, description, stock, timesRented);
+    }
 }

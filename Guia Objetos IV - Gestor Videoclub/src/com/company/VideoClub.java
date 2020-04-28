@@ -114,7 +114,7 @@ public class VideoClub {
 
     public int searchClient(String name,double phone){
         int i=0;
-        while ((name != this.clients.get(i).getName()) && (phone != this.clients.get(i).getPhone()) && (i> this.movies.size())){
+        while ((name != this.clients.get(i).getName()) && (phone != this.clients.get(i).getPhone()) && (i< this.movies.size())){
             i++;
         }
         if ((name != this.clients.get(i).getName()) || (phone != this.clients.get(i).getPhone())){
@@ -150,6 +150,7 @@ public class VideoClub {
 
     public void getSortedByTimesRented() {
         Collections.sort(movies, new Comparator<Movie>() {
+
             @Override
             public int compare(Movie p1, Movie p2) {
                 return new Integer(p2.getTimesRented()).compareTo(new Integer(p1.getTimesRented()));

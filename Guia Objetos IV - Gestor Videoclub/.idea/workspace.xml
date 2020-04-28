@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="186095f5-a8eb-4d62-9ceb-7d012d606f11" name="Default Changelist" comment="" />
+    <list default="true" id="186095f5-a8eb-4d62-9ceb-7d012d606f11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Software For Construction/src/com/company/Architec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Software For Construction/src/com/company/ConstructionMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Software For Construction/src/com/company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Software For Construction/src/com/company/PrintWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Software For Construction/src/com/company/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guia Objetos IV - Gestor Videoclub/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Guia Objetos IV - Gestor Videoclub/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guia Objetos IV - Gestor Videoclub/com/company/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Guia Objetos IV - Gestor Videoclub/com/company/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guia Objetos IV - Gestor Videoclub/com/company/VideoClub$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Guia Objetos IV - Gestor Videoclub/com/company/VideoClub$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guia Objetos IV - Gestor Videoclub/com/company/VideoClub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Guia Objetos IV - Gestor Videoclub/com/company/VideoClub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/VideoClub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/VideoClub.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +29,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ax9lgla9rXxl0x24zR5V4cHUt7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -51,33 +74,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1587766698711">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1587935210738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587766698711" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587935210738" />
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587742135651">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587742135651" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587768520570">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587935650995">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587768520570" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1587768520570">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587935650995" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1587935650994">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587768520570" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1587768520570">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587935650994" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1587935650994">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587768520570" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1587768520570">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587935650994" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1587935650994">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587768520570" />
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587741799579">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587935650994" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587943849770">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587741799579" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587943849770" />
+    <state x="65" y="0" key="new project wizard" timestamp="1587944891869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587944891869" />
   </component>
 </project>

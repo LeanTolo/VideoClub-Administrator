@@ -74,7 +74,7 @@ public class Main {
         //MOST RENTED ON TOP, DECLINING
         System.out.println("---------------------------------------------------------");
         management.getSortedByTimesRented();
-        management.moviesByGenre("Comedy");
+        management.moviesByGenre("Action");
 
         //RETURN MOVIE
 
